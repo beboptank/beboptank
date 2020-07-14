@@ -1,6 +1,6 @@
 ### Hi, I'm Seth. I'm a front end developer. 👋
 
-I'm currently learning React, Gatsby, JavaScript (3 years and counting! 🌱) and Java.
+I'm currently learning/working with React, Gatsby, JavaScript (3 years and counting! 🌱) and Java.
 
 I'm now looking for full time opportunities in South Carolina, North Carolina, Georgia, and Florida.
 
