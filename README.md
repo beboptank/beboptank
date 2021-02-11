@@ -8,7 +8,7 @@ I'm now looking for full time opportunities in South Carolina, North Carolina, G
 
 Portfolio: www.sethchristmus.dev
 LinkedIn: www.linkedin/in/schristmus
-Twitter: @SethChristmus
+Twitter: @takodeyaki
 
 
 <!--
