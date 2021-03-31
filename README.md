@@ -1,14 +1,11 @@
-### Hi, I'm Seth. I'm a front end developer. 👋
+### Hi, I'm Seth. I'm a software developer. 👋
 
 I'm currently learning/working with React, Gatsby, JavaScript (3 years and counting! 🌱) and Java.
-
-I'm now looking for full time opportunities in South Carolina, North Carolina, Georgia, and Florida.
 
 🌐 Find me on the web at:
 
 Portfolio: www.sethchristmus.dev
 LinkedIn: www.linkedin/in/schristmus
-Twitter: @takodeyaki
 
 
 <!--
