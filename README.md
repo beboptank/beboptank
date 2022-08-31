@@ -1,10 +1,10 @@
-### Hi, I'm Seth. I'm a software developer. 👋
+### Hi, I'm Seth. I'm a teacher turned UX writer hopeful, with some software development knowledge. 👋
 
-I'm currently learning/working with React, Gatsby, JavaScript (3 years and counting! 🌱) and Java.
+I'm most experienced in HTML, CSS, JavaScript, React, and Java.
 
 🌐 Find me on the web at:
 
-Portfolio: www.sethchristmus.dev
+Portfolio: https://beboptank.github.io/my-portfolio/
 LinkedIn: www.linkedin/in/schristmus
 
 
