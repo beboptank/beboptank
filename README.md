@@ -1,4 +1,4 @@
-### Hi, I'm Seth. I'm a teacher turned UX writer hopeful, with some software development knowledge. 👋
+### Hi, I'm Seth. I'm a teacher transitioning into UX writing, with some software development knowledge. 👋
 
 I'm most experienced in HTML, CSS, JavaScript, React, and Java.
 
